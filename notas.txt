@@ -1,0 +1,4 @@
+para que nodemon este pendiente de otros archivos didrentes 
+a js y html
+
+nodemon server -e js,hbs,html,css
